@@ -1,2 +1,1 @@
-greeting = "Number one python programmer!!"
-print(greeting)
+print("Welcome to my compute quiz!")
