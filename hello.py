@@ -12,23 +12,19 @@ if answer() == "Graphical processing unit":
     print("Correct!")
 else:
     print("Incorrect!")
-answer = input("")
-if answer() == "":
+answer = input("What does RAM stand for?")
+if answer() == "random access memory":
     print("Correct!")
 else:
     print("Incorrect!")
-answer = input("")
-if answer() == "":
+answer = input("What does CPU stand for?")
+if answer() == "central processing unit":
     print("Correct!")
 else:
     print("Incorrect!")
-answer = input("")
-if answer.lower() == "":
+answer = input("What does PSU stand for?")
+if answer() == "power supply unit":
     print("Correct!")
 else:
     print("Incorrect!")
-answer = input("")
-if answer.lower() == "":
-    print("Correct!")
-else:
-    print("Incorrect!")
+
