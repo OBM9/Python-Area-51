@@ -1,3 +1,3 @@
 import random
 
-random.randrange(-1, 11)
+random.randrange(-5, 11)
