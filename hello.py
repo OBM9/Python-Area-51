@@ -23,7 +23,7 @@ if answer.lower() == "central processing unit":
 else:
     print("Incorrect!")
 answer = input("What does PSU stand for? ")
-if answer() == "power supply unit":
+if answer.lower() == "power supply unit":
     print("Correct!")
 else:
     print("Incorrect!")
