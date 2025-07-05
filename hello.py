@@ -8,17 +8,17 @@ if playing.lower() != "yes":
 print("Okay! Let's play!")    
 
 answer = input("What does gpu mean")
-if answer.lower() == "Graphical processing unit":
+if answer() == "Graphical processing unit":
     print("Correct!")
 else:
     print("Incorrect!")
 answer = input("")
-if answer.lower() == "":
+if answer() == "":
     print("Correct!")
 else:
     print("Incorrect!")
 answer = input("")
-if answer.lower() == "":
+if answer() == "":
     print("Correct!")
 else:
     print("Incorrect!")
