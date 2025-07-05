@@ -7,28 +7,28 @@ if playing.lower() != "yes":
     
 print("Okay! Let's play!")    
 
-answer = input("What does CPU stand for? ")
-if answer.lower() == "central processing unit":
+answer = input()
+if answer.lower() == "":
     print("Correct!")
 else:
     print("Incorrect!")
-answer = input("What does CPU stand for? ")
-if answer.lower() == "central processing unit":
+answer = input("")
+if answer.lower() == "":
     print("Correct!")
 else:
     print("Incorrect!")
-answer = input("What does CPU stand for? ")
-if answer.lower() == "central processing unit":
+answer = input("")
+if answer.lower() == "":
     print("Correct!")
 else:
     print("Incorrect!")
-answer = input("What does CPU stand for? ")
-if answer.lower() == "central processing unit":
+answer = input("")
+if answer.lower() == "":
     print("Correct!")
 else:
     print("Incorrect!")
-answer = input("What does CPU stand for? ")
-if answer.lower() == "central processing unit":
+answer = input("")
+if answer.lower() == "":
     print("Correct!")
 else:
     print("Incorrect!")
