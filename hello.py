@@ -14,4 +14,4 @@ if top_of_range.isdigit():
         quit()
         
 
-random_number = random.randint(11)
+random_number = random.randint(top_of_range)
