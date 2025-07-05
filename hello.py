@@ -15,3 +15,4 @@ if top_of_range.isdigit():
         
 
 random_number = random.randint(top_of_range)
+print(random_number)
