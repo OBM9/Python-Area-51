@@ -9,6 +9,7 @@ if top_of_range.isdigit():
         print("Please type a number larger than 0 next time")
         quit()
     else:
+        print("Please type a number next time.")
         quit()
 
 
