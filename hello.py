@@ -11,5 +11,7 @@ if top_of_range.isdigit():
     else:
         print("Please type a number next time.")
         quit()
+        
+    random_number = random.randint(top_of_range)
 
 
