@@ -8,6 +8,10 @@ if top_of_range.isdigit():
     if top_of_range <= 0:
         print("Please type a number larger than 0 next time.")
         quit()
+    
+    else:
+        print("Print type a number next time.")
+        quit()
         
 
 random_number = random.randint(11)
