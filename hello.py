@@ -5,7 +5,8 @@ playing = input("Do you want to play? ")
 if playing.lower() != "yes":
     quit()
     
-print("Okay! Let's play!")    
+print("Okay! Let's play!") 
+score = 0   
 
 answer = input("What does gpu stand for? ")
 if answer.lower() == "graphical processing unit":
