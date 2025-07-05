@@ -8,17 +8,17 @@ if playing.lower() != "yes":
 print("Okay! Let's play!")    
 
 answer = input("What does gpu stand for? ")
-if answer() == "graphical processing unit":
+if answer.lower() == "graphical processing unit":
     print("Correct!")
 else:
     print("Incorrect!")
 answer = input("What does RAM stand for? ")
-if answer() == "random access memory":
+if answer.lower() == "random access memory":
     print("Correct!")
 else:
     print("Incorrect!")
 answer = input("What does CPU stand for? ")
-if answer() == "central processing unit":
+if answer.lower() == "central processing unit":
     print("Correct!")
 else:
     print("Incorrect!")
