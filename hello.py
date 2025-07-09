@@ -1,1 +1,1 @@
-len(Mylist)
+len("variable")
