@@ -1,1 +1,2 @@
-print("Number of letters in your name: " + len(input("What's your name? ")))
+len(input("What's your name? ")))
+print("Number of letters in your name: " + 
