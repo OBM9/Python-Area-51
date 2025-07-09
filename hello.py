@@ -1,2 +1,2 @@
 len("variable")
-print(len(variable))
+print(len("variable"))
