@@ -3,4 +3,4 @@ length_of_name = len(name_of_user)
 print(type("Number of letters in your name"))
 print(str(length_of_name))
 
-print("Number of letters in your name: " + str(length_of_name)
+print("Number of letters in your name: " + str(length_of_name))
