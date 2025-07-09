@@ -1,2 +1,2 @@
-len(input("What's your name? ")))
+name_of_user = input("Enter your name? ")
 print("Number of letters in your name: " + 
