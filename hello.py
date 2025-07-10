@@ -3,3 +3,5 @@ print(bmi)
 
 print(int(bmi))
 
+print(round(bmi))
+
