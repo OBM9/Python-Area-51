@@ -1,2 +1,2 @@
 print("Welcome to the tip calculator!!")
-input("What was the total bill? $")
+bill = float(input("What was the total bill? $")
