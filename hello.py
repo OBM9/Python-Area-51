@@ -1,2 +1,2 @@
 print("Welcome to the tip calculator!!")
-input()
+input("What was the total bill? $")
