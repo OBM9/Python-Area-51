@@ -9,6 +9,7 @@ else:
     if height >= 120:
         print("You can ride the rollercoaster")
         age = int(input("What is your age? "))
+        
     
     
     
