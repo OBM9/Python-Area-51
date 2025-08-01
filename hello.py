@@ -11,6 +11,8 @@ else:
         age = int(input("What is your age? "))
         if age <= 12:
             print("Child tickets are $5.")
+        elif age <= 18:
+            print()
         
     
     
