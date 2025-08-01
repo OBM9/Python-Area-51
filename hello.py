@@ -12,7 +12,7 @@ else:
         if age <= 12:
             print("Child tickets are $5.")
         elif age <= 18:
-            print()
+            print("Youth tickets are $7.")
         
     
     
