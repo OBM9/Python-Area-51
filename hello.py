@@ -10,6 +10,7 @@ else:
         print("You can ride the rollercoaster")
         age = int(input("What is your age? "))
         if age <= 12:
+            print("Child tickets are $5.")
         
     
     
