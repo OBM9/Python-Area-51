@@ -19,7 +19,7 @@ if height >= 120:
     if wants_photo == "y":
             bill = bill + 3
             
-        print(f"Your final bill is {bill}")
+    print(f"Your final bill is {bill}")
         
             
     else:
