@@ -14,6 +14,7 @@ else:
             bill = 5
             print("Child tickets are $5.")
         elif age <= 18:
+            bill = 7
             print("Youth tickets are $7.")
         else:
             print("Adult tickets are $12.")
