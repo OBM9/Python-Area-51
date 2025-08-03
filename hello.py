@@ -11,6 +11,7 @@ else:
         print("You can ride the rollercoaster")
         age = int(input("What is your age? "))
         if age <= 12:
+            bill = 5
             print("Child tickets are $5.")
         elif age <= 18:
             print("Youth tickets are $7.")
