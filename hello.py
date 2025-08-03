@@ -4,9 +4,8 @@ bill = 0
 
 if height >= 120:
     print("You can ride the rollercoaster")
-else: 
-    print("Sorry you have to grow taller before you can ride.")
-    
+    age = int(input("What is your age? "))
+
     if height >= 120:
         print("You can ride the rollercoaster")
         age = int(input("What is your age? "))
