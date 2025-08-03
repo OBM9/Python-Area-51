@@ -17,6 +17,7 @@ else:
             bill = 7
             print("Youth tickets are $7.")
         else:
+            bill = 12
             print("Adult tickets are $12.")
             
         wants_photo = input("Do you want a photo take? Type Y for yes and n for No.")
