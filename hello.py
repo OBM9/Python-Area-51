@@ -16,6 +16,8 @@ if pepperoni == "Y":
         bill += 2
     else:
         bill += 3
+    if extra_cheese == "Y":
+        bill += 1
     
 
     
