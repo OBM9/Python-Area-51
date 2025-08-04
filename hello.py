@@ -5,6 +5,10 @@ bill = 0
 if size == "S": 
     bill += 15
 elif size == "M":
+    bill += 20
+elif size == "L":
+    bill += 25
+    
 
 
 
