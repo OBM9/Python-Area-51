@@ -11,6 +11,11 @@ elif size == "L":
     
 else:
     print("You typed the wrong inputs.")
+if pepperoni == "Y":
+    if size == "S":
+        bill += 2
+    
+
     
 
 
