@@ -3,6 +3,8 @@ size = input("What size pizza do you want? S, M, or L:")
 bill = 0
 
 if size == "S": 
+    bill += 15
+elif size == "M":
 
 
 
