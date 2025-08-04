@@ -9,6 +9,9 @@ elif size == "M":
 elif size == "L":
     bill += 25
     
+else:
+    print("You typed the wrong inputs.")
+    
 
 
 
