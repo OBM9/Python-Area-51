@@ -19,7 +19,7 @@ if pepperoni == "Y":
     if extra_cheese == "Y":
         bill += 1
         
-    print("Your final bill is: ${}")
+    print(f"Your final bill is: ${bill}")
     
 
     
