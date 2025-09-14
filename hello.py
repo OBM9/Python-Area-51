@@ -1,2 +1,2 @@
 first_name = "Spartan"
-print(first_name)
+print("first_name")
