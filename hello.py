@@ -1,2 +1,2 @@
 first_name = "Spartan"
-print(f"Hello{first_name}")
+print(f"Hello {first_name}")
