@@ -1,2 +1,2 @@
-name = input("What is your name?")
-print('heeeelllooo ' + name)
+first_name = "Spartan"
+print(first_name)
