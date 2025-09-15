@@ -1,1 +1,2 @@
-print(f"Today I went to a {adjective1}")
+print(f"Today I went to a {adjective1} zoo.")
+print(f"In a exhibit, I saw a {noun1}")
