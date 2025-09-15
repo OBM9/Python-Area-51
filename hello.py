@@ -1,3 +1,3 @@
 
 age = 35
-quanity = 3
+quantity = 3
