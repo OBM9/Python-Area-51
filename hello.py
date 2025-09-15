@@ -1,7 +1,8 @@
 adjective1 = input("Enter an adjective (description): ")
 noun1 = input("Enter a noun (person, place, thing): ")
 adjective2 = input("Enter an adjective (description): ")
-verb1 = input("Enter a verb ending with 'ing' ")
+verb1 = input("Enter a verb ending with 'ing'")
+adjective3 = input("Enter an adjective (description): ")
 
 
 
