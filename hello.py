@@ -1,0 +1,1 @@
+print(f"Today I went to a {adjective1}")
