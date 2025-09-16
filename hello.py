@@ -4,6 +4,7 @@ z = 5
 
 result = pow(4, 3)
 
-print(result)
+result(result)
+result min(x,y,z)
 
 
