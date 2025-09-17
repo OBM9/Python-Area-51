@@ -1,5 +1,5 @@
 import math
-
-print(math.pi)
+x = 9
+result = math.sqrt(x)
 
 
