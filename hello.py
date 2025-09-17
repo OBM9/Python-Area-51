@@ -3,7 +3,7 @@ y = -4
 z = 5
 
 
-result(result)
-result = min(x,y,z
+result = max(x, y)
+result = min(x, y, z)
 
 
