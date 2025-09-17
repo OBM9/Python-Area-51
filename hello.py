@@ -6,6 +6,6 @@ z = 5
 result = max(x, y)
 result = min(x, y, z)
 
-
+print(result)
 
 
