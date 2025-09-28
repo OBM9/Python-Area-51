@@ -1,3 +1,3 @@
-while
+while value <= 10:
 
 
