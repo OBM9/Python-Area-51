@@ -1,3 +1,4 @@
+friends = 0
 
         
 
