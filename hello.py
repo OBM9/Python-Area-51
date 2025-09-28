@@ -1,5 +1,5 @@
 while value <= 10:
-    print(value)
+    print("value")
     if value == 5:
         break
     value += 1
