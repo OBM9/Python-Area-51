@@ -1,6 +1,6 @@
 friends = 5
 
-friends += 1
+friends = friends * 3
 
 print(friends)
 
