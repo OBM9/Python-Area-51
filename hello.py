@@ -1,6 +1,8 @@
 import math
 
-print(math.sqrt)
+x = 9
+
+printmath.sqrt)
 
 
         
