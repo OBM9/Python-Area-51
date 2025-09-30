@@ -1,4 +1,4 @@
-friends = 0
+friends = 5
 
 friends += 1
 
