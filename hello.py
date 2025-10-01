@@ -1,6 +1,7 @@
 import math
 
-a = input("Enter side a; ")
+a = float(input("Enter side a; "))
+b = float(input("Enter side b: "))
 
 
 
