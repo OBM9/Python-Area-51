@@ -1,6 +1,6 @@
 age = int(input("Enter your age: "))
 
-elif age >= 100:
+if age >= 100:
     print("You are too old in sign up.")
 if age>= 18:
     print("You are now signed up!")
