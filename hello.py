@@ -5,6 +5,14 @@ num2 = float(input("Enter the second number: "))
 
 print(num1 + num2)
 
+if operator == '+':
+    pass
+elif operator == '-':
+    pass
+elif operator == '*':
+    pass
+elif operator == '/':
+    pass
 
 
 
