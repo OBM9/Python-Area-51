@@ -1,5 +1,7 @@
 
 operator = input("Enter an operator (+, -, *, /): ")
+num1 = input("Enter the first number: ")
+
 
 
 
