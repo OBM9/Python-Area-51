@@ -9,6 +9,8 @@ elif unit == "L":
     weight = weight / 2.205
 else:
     print(f"{unit} was not valid")
+    
+print(f"Your weight is: {weight} {}")
 
 
 
