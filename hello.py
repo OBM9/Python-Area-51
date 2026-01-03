@@ -1,5 +1,6 @@
 
 
+weight = input("Enter your weight")
 
 
 
