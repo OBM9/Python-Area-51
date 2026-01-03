@@ -17,7 +17,7 @@ elif operator == '/':
     result = num1 / num2
     print(round(result, 3))
 else:
-    print(f"{operator} is not valid")
+    print(f"{operator} is not valid operator")
     
 
 
