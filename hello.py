@@ -7,16 +7,16 @@ print(num1 + num2)
 
 if operator == '+':
     result = num1 + num2
-    print(result, 3)
+    print(round(result, 3))
 elif operator == '-':
     result = num1 - num2
-    print(result)
+    print(round(result, 3))
 elif operator == '*':
     result = num1 * num2
-    print(result)
+    print(round(result, 3))
 elif operator == '/':
     result = num1 / num2
-    print(result)
+    print(round(result, 3))
 
 
 
