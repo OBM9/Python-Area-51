@@ -1,3 +1,4 @@
+email = input("Enter your email address: ")
 
 
 
