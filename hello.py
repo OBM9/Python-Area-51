@@ -1,7 +1,7 @@
 
 
 weight = float(input("Enter your weight: "))
-unit = input("Kilograms or Pounds (K or L:)")
+unit = input("Kilograms or Pounds (K or L:")
 
 if unit == "K":
     weight = weight * 2.205
