@@ -12,7 +12,7 @@ elif unit == "L":
 else:
     print(f"{unit} was not valid")
     
-print(f"Your weight is: {weight} {unit}")
+print(f"Your weight is: {round(weight, 1)} {unit}")
 
 
 
