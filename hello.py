@@ -1,4 +1,4 @@
-email = input("Enter your email address: ")
+email = input("Enter your email: ")
 
 index = email.find("@")
 
