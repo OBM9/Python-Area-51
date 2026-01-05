@@ -1,6 +1,6 @@
 email = input("Enter your email: ")
 
-index = email.find("@")
+
 
 username  = email[:email.:index("@")]
 domain = email[index + 1:]
