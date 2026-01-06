@@ -6,7 +6,7 @@ time = 0
 while principle <= 0:
     principle = float(input("Enter the principle amount: "))
     if principle <=0:
-        print("principle ")
+        print("Principle ")
 
 
 
