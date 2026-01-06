@@ -20,7 +20,7 @@ while time <= 0:
     if time <=0:
         print("Time can't be less than or equal to zero")
         
-print()
+print(principle)
 print()
 print()
 
