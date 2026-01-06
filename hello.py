@@ -21,7 +21,7 @@ while time <= 0:
         print("Time can't be less than or equal to zero")
         
 print(principle)
-print()
+print(rate)
 print()
 
 
