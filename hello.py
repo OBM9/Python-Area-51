@@ -20,9 +20,8 @@ while time <= 0:
     if time <=0:
         print("Time can't be less than or equal to zero")
         
-print(principle)
-print(rate)
-print(time)
+
+total = principle * (1 + (rate/100), time)
 
 
 
