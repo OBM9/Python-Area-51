@@ -22,7 +22,7 @@ while time <= 0:
         
 
 total = principle * (1 + (rate/100), time)
-print(total)
+print(f"Balance after {time} year/s: ${total:.2f}")
 
 
 
