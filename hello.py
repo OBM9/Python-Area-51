@@ -18,7 +18,11 @@ while rate <= 0:
 while time <= 0:
     time = int(input("Enter the time in years principle amount: "))
     if time <=0:
-        print("Principle can't be less than or equal to zero")
+        print("Time can't be less than or equal to zero")
+        
+print()
+print()
+print()
 
 
 
