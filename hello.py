@@ -12,6 +12,8 @@ while rate <= 0:
     rate = float(input("Enter the principle amount: "))
     if rate <=0:
         print("Principle can't be less than or equal to zero")
+        
+    print(rate)
 
 
 
