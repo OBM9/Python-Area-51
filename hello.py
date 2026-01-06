@@ -22,7 +22,7 @@ while time <= 0:
         
 print(principle)
 print(rate)
-print()
+print(time)
 
 
 
